@@ -1,4 +1,4 @@
-with open("day9.txt") as file:
+with open("inputs/day9.txt") as file:
   data = [int(i) for i in file]
 
 # Part 1
